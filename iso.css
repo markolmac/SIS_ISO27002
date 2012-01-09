@@ -1,0 +1,83 @@
+body {
+	background: #D3DBFF;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse:collapse;
+	color:#001A49;
+	}
+
+#prva
+{
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+border-collapse:collapse;
+}
+#prva th, #prva td 
+{
+font-size:1em;
+border:2px solid #E9ECF2;
+padding:3px 7px 2px 7px;
+-moz-border-radius: 10px;
+}
+#prva td 
+{
+font-size:1.1em;
+padding-top:5px;
+padding-bottom:4px;
+background-color:#A4B4FF;
+color:#001A49;
+}
+#prva tr.alt td 
+{
+color:#000000;
+background-color:#718bf5;
+color:#001A49;
+}
+#prva .a 
+{
+color:#D3DBFF;
+background-color:#071A71;
+}
+#prva tr.aa td
+{
+color:#D3DBFF;
+background-color:#2236b5;
+}
+	
+#send{
+	background: #071A71;
+	color: #fff;
+	font-weight: 700;
+	font-style:Sans-serif;
+	font-size: 12pt;
+	border: 0;
+	cursor: pointer;
+	margin-top:1em;
+	margin-bottom:1em;
+	width:100px;
+	height:50px;
+	text-align:center;
+	-moz-border-radius: 10px;
+}
+
+#send:hover{
+	background: #79a7f1;
+	color:#001A49;
+}
+
+input{
+text-align:center;
+}
+
+#druga td 
+{
+font-size:1.1em;
+padding-top:5px;
+padding-bottom:4px;
+padding-left:2px;
+background-color:#A4B4FF;
+color:#001A49;
+-moz-border-radius: 7px;
+}
+
+.success{position:relative;padding:.8em;margin-bottom:1em;width:50%;-moz-border-radius: 7px;}
+.success {background:#071A71;color:#D3DBFF;border-color:white;}
+.success a {color:#6693ed;}
